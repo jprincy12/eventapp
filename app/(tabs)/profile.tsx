@@ -12,10 +12,10 @@ export default function ProfileScreen() {
       
       <View style={styles.profileCard}>
         <Text style={styles.infoLabel}>Name</Text>
-        <Text style={styles.infoValue}>John Doe</Text>
+        <Text style={styles.infoValue}>ABC</Text>
         
         <Text style={styles.infoLabel}>Email</Text>
-        <Text style={styles.infoValue}>john.doe@example.com</Text>
+        <Text style={styles.infoValue}>ABC@example.com</Text>
         
         <Text style={styles.infoLabel}>Tickets Booked</Text>
         <Text style={styles.infoValue}>3</Text>

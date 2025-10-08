@@ -96,7 +96,6 @@ export default function EventsScreen() {
         </View>
       </View>
       
-      {/* Compact Vertical Category Filters */}
       <View style={styles.categoriesContainer}>
         <View style={styles.categoriesContent}>
           {categories.map(category => (

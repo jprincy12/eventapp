@@ -7,7 +7,7 @@ export default function PaymentScreen() {
     const router = useRouter(); 
 
     const handleEsewaPayment = () => {
-
+ 
         router.push({
             pathname: './esewaLogin',
             params: { eventId: eventId as string, eventTitle: eventTitle as string }
