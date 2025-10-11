@@ -1,28 +1,12 @@
 {
   "extends": "expo/tsconfig.base",
   "compilerOptions": {
-    "strict": true,
-    "paths": {
-      "@/*": [
-        "./*"
-      ],
-      "@components/*": [
-        "./components/*"
-      ],
-      "@types/*": [
-        "./types/*"
-      ],
-      "@utils/*": [
-        "./utils/*"
-      ],
-      "@services/*": [
-        "./services/*"
-      ]
-    }
+    "strict": false,
+    "skipLibCheck": true,
+    "types": ["node"]
   },
   "include": [
     "**/*.ts",
-    "**/*.tsx",
-    "node_modules/expo-router/types/*.ts"
+    "**/*.tsx"
   ]
 }

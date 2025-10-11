@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "title": "Music Festival 2024",
+    "date": "June 15, 2024",
+    "time": "6:00 PM - 11:00 PM",
+    "location": "Kathmandu, Nepal",
+    "category": "Music",
+    "imagePath": "https://images.unsplash.com/photo-1533174072545-7a4b6ad7a6c3?w=400",
+    "description": "Join us for the biggest music festival of the year featuring top artists from around the world. Experience unforgettable performances across multiple stages with food trucks and art installations."
+  },
+  {
+    "id": "2",
+    "title": "Tech Conference",
+    "date": "July 20, 2024",
+    "time": "9:00 AM - 5:00 PM",
+    "location": "Kathmandu, Nepal",
+    "category": "Tech",
+    "imagePath": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?w=400",
+    "description": "Annual technology conference showcasing the latest innovations in AI, blockchain, and web development. Network with industry leaders and attend workshops."
+  },
+  {
+    "id": "3",
+    "title": "Education Summit",
+    "date": "August 5, 2024",
+    "time": "10:00 AM - 4:00 PM",
+    "location": "Kathmandu, Nepal",
+    "category": "Education",
+    "imagePath": "https://images.unsplash.com/photo-1523580494863-6f3031224c94?w=400",
+    "description": "Gathering of educators, researchers, and policymakers to discuss the future of education. Features keynote speakers and interactive sessions."
+  },
+  {
+    "id": "4",
+    "title": "Art Exhibition",
+    "date": "September 12, 2024",
+    "time": "11:00 AM - 7:00 PM",
+    "location": "Kathmandu, Nepal",
+    "category": "Art",
+    "imagePath": "https://images.unsplash.com/photo-1563089145-599997674d42?w=400",
+    "description": "Exhibition featuring contemporary artists from around the globe. Includes paintings, sculptures, and digital art installations."
+  }
+]
